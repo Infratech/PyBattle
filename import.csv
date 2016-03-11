@@ -1,0 +1,5 @@
+name,proficiency,dex,dmg,AC,HP,isLeader,save,strat
+Captain,2,2,2,13,40,True,3
+Guard,2,2,2,13,40,False,3
+CultLead,2,2,2,18,40,True,3
+Cultist,2,2,2,18,40,False,3
